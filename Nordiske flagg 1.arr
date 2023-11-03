@@ -88,7 +88,9 @@ Faroe-flagg =
 #Variabler for feilmelding
 feil-melding = "Du kan kun skrive en av følgende: Norge, Sverige, Danmark, Finland, Island eller Færøyene"
 
+#Skriv inn land her etter "="
 flagg = "Norge"
+
 
 if flagg == "Norge":
   Norges-flagg
